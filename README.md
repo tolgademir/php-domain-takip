@@ -1,1 +1,1 @@
-Teko Domain CRM v1.1
+Teko Domain CRM v1.2
